@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+plotly
+seaborn
+kaggle
+pyarrow
+fastparquet; python_version < "3.15"
